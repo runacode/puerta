@@ -1,7 +1,7 @@
-<?php $company = "DOWELL ROOFING SERVICES LLC";
-$phone = "(863) 858-4669";
-	$address1 = "1345 COVEY CIR S";
-	$address2 = "LAKELAND, FL 33809";
+<?php $company = "PUERTA VIEJA MEXICAN GRILL, INC.";
+$phone = "(817) 562-5301";
+	$address1 = "101 TOWN CENTER LN";
+	$address2 = "KELLER, TX 76248, United States";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -74,7 +74,7 @@ $phone = "(863) 858-4669";
                   </div>
                 </div>
                 <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Tell us about your project!</h6>
+                <h6 class="u-text u-text-8">Tell us what you think!</h6>
               </div>
             </div>
           </div>
